@@ -16,5 +16,3 @@ cmake -S . -B build -DCMAKE_PREFIX_PATH=/path/to/Qt/6.x/gcc_64
 cmake --build build
 ./build/FourierSeriesLab
 ```
-
-<!-- TODO: add a screenshot, e.g. docs/screenshot.png -->
