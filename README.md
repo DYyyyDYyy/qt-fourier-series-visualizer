@@ -1,5 +1,7 @@
 # Fourier Series Visualizer (Qt + QtCharts)
 
+[![ci](https://github.com/DYyyyDYyy/qt-fourier-series-visualizer/actions/workflows/ci.yml/badge.svg)](https://github.com/DYyyyDYyy/qt-fourier-series-visualizer/actions/workflows/ci.yml)
+
 A Qt 6 desktop app that computes the Fourier series of a periodic signal and shows the original wave, its approximation and the amplitude spectrum.
 
 - Signals: square pulses, sawtooth, parabolic wave
